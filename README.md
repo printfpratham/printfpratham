@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @printfpratham
 - 👀 I’m interested in Electronics and Computing
-- 🌱 I’m currently learning Engineering in Electronics and Communication.a
+- 🌱 I’m currently working as Embedded Software Engineer.
 - 📫 How to reach me 
-Email : malaviyapratham29@gmail.com
-Instagram : its_me_pratham
+
 
 <!---
 printfpratham/printfpratham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
